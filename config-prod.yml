@@ -1,2 +1,2 @@
-server:
-  port: 7777
+config:
+  info: master-config-prod.yml version= 1

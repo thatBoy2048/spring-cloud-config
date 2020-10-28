@@ -1,4 +1,4 @@
-server:
-  port: 8888
+config:
+  info: master-config-dev.yml version= 1
 
 
